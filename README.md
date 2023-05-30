@@ -1,0 +1,2 @@
+# fsdproject
+FULL_STACK_DEVELPOMENT
